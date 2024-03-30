@@ -112,3 +112,4 @@ global.APIs = {
 global.APIKeys = {
   "https://zenzapis.xyz": "5d1197db351b",
 };
+global.botruntime = "300000 mins,20 secs"
